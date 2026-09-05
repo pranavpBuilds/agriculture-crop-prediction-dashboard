@@ -86,6 +86,8 @@ The dashboard contains multiple visualizations, including:
 - Crop-wise Rainfall Analysis
 - Soil pH Analysis
 - Interactive KPI Cards
+- 
+<img width="1431" height="798" alt="dashboard_overview" src="https://github.com/user-attachments/assets/050ca0e9-06c8-42e6-9b3f-cf43e363d192" />
 
 ---
 
@@ -134,6 +136,16 @@ The dataset was prepared before visualization by performing basic data-cleaning 
 - **GitHub**
 
 ---
+application
+## 👨‍💻 Author
+
+Pranav Patole
+
+B.Tech Student | Data Analytics & Emerging Technologies
+
+## 📜 Project Purpose
+
+This project was developed as part of an academic assignment for Data Warehouse and Mining, with a focus on data visualization, interactive analytics, and dashboard development using Microsoft Power BI.
 
 ## 📁 Project Structure
 
